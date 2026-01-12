@@ -1,0 +1,5 @@
+{
+  "name": "VoxAI Operations Console",
+  "description": "An internal operations dashboard for managing AI voice agents, call flows, and automated complaint detection for government and corporate sectors.",
+  "requestFramePermissions": []
+}

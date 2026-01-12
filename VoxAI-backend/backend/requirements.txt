@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+requests
+pydantic
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
+langgraph
+openai
+reportlab
+rich
+sqlalchemy
+aiosqlite
